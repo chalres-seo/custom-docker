@@ -1,0 +1,1 @@
+pip install apache-airflow[all_dbs, async, devel, celery, crypto, druid, gcp_api, jdbc, hdfs, hive, mssql, mysql, postgres, password, qds, rabbitmq, slack, redis]
